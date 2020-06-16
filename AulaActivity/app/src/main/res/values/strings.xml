@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AulaActivity</string>
+    <string name="abrir_nova_activity">Abrir Nova activity</string>
+    <string name="segunda_activity">Segunda Activity</string>
+</resources>
